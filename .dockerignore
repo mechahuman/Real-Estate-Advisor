@@ -1,0 +1,15 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+pip-wheel-metadata
+*.egg-info
+.DS_Store
+/tests
+/.git
+/.github
+.bundle
+node_modules
