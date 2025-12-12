@@ -236,7 +236,7 @@ if predict_button:
             facing=facing, owner_type=owner_type, availability=availability
         )
 
-        st.subheader("Input preview (raw)")
+        st.subheader("Input preview")
         st.dataframe(df_input.T, width=700)
 
         # Diagnostics: expected features from pipelines (concise)
