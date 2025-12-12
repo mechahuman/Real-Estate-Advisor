@@ -355,4 +355,3 @@ if predict_button:
         st.write("Space per BHK:", f"{size_sqft/max(1,bhk):.2f} SqFt")
 
 st.markdown("---")
-st.write("Notes: This app loads local `models/*.pkl`. If predictions look constant, ensure you saved and committed the full pipelines (preprocessor + model). If pipelines were saved without preprocessors, save & provide the required scaler/ohe artifacts in `models/` as well.")
