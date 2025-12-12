@@ -1,9 +1,4 @@
 # app.py
-
-import sys
-print("STREAMLIT BUILD PYTHON:", sys.version)
-
-
 """
 Streamlit app for Real Estate Investment Advisor (local-pickle version)
 
