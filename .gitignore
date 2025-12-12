@@ -1,0 +1,5 @@
+/mlruns
+/.ipynb_checkpoints
+/notebook/.ipynb_checkpoints
+/notebook/mlruns
+/notebook/models
